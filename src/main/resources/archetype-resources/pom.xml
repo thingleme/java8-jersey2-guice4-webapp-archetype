@@ -5,6 +5,7 @@
   <groupId>${groupId}</groupId>
   <artifactId>${artifactId}</artifactId>
   <version>${version}</version>
+  <packaging>war</packaging>
 
   <description>A java 8, servlet 3.1 webapp with jersey 2 and guice 4</description>
 
