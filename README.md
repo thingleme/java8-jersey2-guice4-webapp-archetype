@@ -8,7 +8,7 @@ Use with `mvn archetype:generate` or
 mvn archetype:generate \
   -DarchetypeGroupId=me.thingle.archetypes \
   -DarchetypeArtifactId=java8-jersey2-guice4-webapp-archetype \
-  -DarchetypeVersion=1.0.0
+  -DarchetypeVersion=1.1.0
 ```
 
 Once your new project is created, run command `mvn jetty:run` then go to
